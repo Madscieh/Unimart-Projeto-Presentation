@@ -1,0 +1,1028 @@
+fileFormatVersion: 2
+guid: c5ce38c78bd95cc4b9ca3badfa27c8dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1740178888905206454
+    second: JELLYGHOSTSPRITESHEET_0
+  - first:
+      213: 3665030886721479
+    second: JELLYGHOSTSPRITESHEET_1
+  - first:
+      213: 6245455873445668933
+    second: JELLYGHOSTSPRITESHEET_2
+  - first:
+      213: -3672763125808334986
+    second: JELLYGHOSTSPRITESHEET_3
+  - first:
+      213: -5787566173080377948
+    second: JELLYGHOSTSPRITESHEET_4
+  - first:
+      213: -2439985445226445015
+    second: JELLYGHOSTSPRITESHEET_5
+  - first:
+      213: 8969228248249496834
+    second: JELLYGHOSTSPRITESHEET_6
+  - first:
+      213: 2773411414846588087
+    second: JELLYGHOSTSPRITESHEET_7
+  - first:
+      213: 5961612926072854864
+    second: JELLYGHOSTSPRITESHEET_8
+  - first:
+      213: -2527767978972590141
+    second: JELLYGHOSTSPRITESHEET_9
+  - first:
+      213: 5674629377914391582
+    second: JELLYGHOSTSPRITESHEET_10
+  - first:
+      213: 4636546417002905613
+    second: JELLYGHOSTSPRITESHEET_11
+  - first:
+      213: -5799384245198061338
+    second: JELLYGHOSTSPRITESHEET_12
+  - first:
+      213: 7053117306996752616
+    second: JELLYGHOSTSPRITESHEET_13
+  - first:
+      213: 8160481939240563155
+    second: JELLYGHOSTSPRITESHEET_14
+  - first:
+      213: 9106217788195026225
+    second: JELLYGHOSTSPRITESHEET_15
+  - first:
+      213: -7739251106377147694
+    second: JELLYGHOSTSPRITESHEET_16
+  - first:
+      213: 9075254485493262928
+    second: JELLYGHOSTSPRITESHEET_17
+  - first:
+      213: 539268213038148131
+    second: JELLYGHOSTSPRITESHEET_18
+  - first:
+      213: 839948797860463046
+    second: JELLYGHOSTSPRITESHEET_19
+  - first:
+      213: 8055901427311026780
+    second: JELLYGHOSTSPRITESHEET_20
+  - first:
+      213: -1073374087885134059
+    second: JELLYGHOSTSPRITESHEET_21
+  - first:
+      213: 503164041281209131
+    second: JELLYGHOSTSPRITESHEET_22
+  - first:
+      213: -8632694779635978005
+    second: JELLYGHOSTSPRITESHEET_23
+  - first:
+      213: -8508296009143060161
+    second: JELLYGHOSTSPRITESHEET_24
+  - first:
+      213: -2378372511709403870
+    second: JELLYGHOSTSPRITESHEET_25
+  - first:
+      213: 615235399425969320
+    second: JELLYGHOSTSPRITESHEET_26
+  - first:
+      213: 8386544872515288181
+    second: JELLYGHOSTSPRITESHEET_27
+  - first:
+      213: 3496317058834302059
+    second: JELLYGHOSTSPRITESHEET_28
+  - first:
+      213: -6278819606940476737
+    second: JELLYGHOSTSPRITESHEET_29
+  - first:
+      213: -6311007367260591612
+    second: JELLYGHOSTSPRITESHEET_30
+  - first:
+      213: -2256225303039262323
+    second: JELLYGHOSTSPRITESHEET_31
+  - first:
+      213: 1007664125167025894
+    second: JELLYGHOSTSPRITESHEET_32
+  - first:
+      213: -7257251915337906116
+    second: JELLYGHOSTSPRITESHEET_33
+  - first:
+      213: 8568089365420506468
+    second: JELLYGHOSTSPRITESHEET_34
+  - first:
+      213: -1906680772308535776
+    second: JELLYGHOSTSPRITESHEET_35
+  - first:
+      213: 3138704284503133188
+    second: JELLYGHOSTSPRITESHEET_36
+  - first:
+      213: -9170882269224190757
+    second: JELLYGHOSTSPRITESHEET_37
+  - first:
+      213: 3513564692747400409
+    second: JELLYGHOSTSPRITESHEET_38
+  - first:
+      213: 8331264010797996643
+    second: JELLYGHOSTSPRITESHEET_39
+  - first:
+      213: 4083724932427629400
+    second: JELLYGHOSTSPRITESHEET_40
+  - first:
+      213: 34430751887244463
+    second: JELLYGHOSTSPRITESHEET_41
+  - first:
+      213: 8659980578038571994
+    second: JELLYGHOSTSPRITESHEET_42
+  - first:
+      213: -4938248862606876471
+    second: JELLYGHOSTSPRITESHEET_43
+  - first:
+      213: 5043164947858448805
+    second: JELLYGHOSTSPRITESHEET_44
+  - first:
+      213: 6726495600817393826
+    second: JELLYGHOSTSPRITESHEET_45
+  - first:
+      213: -2490260302537001471
+    second: JELLYGHOSTSPRITESHEET_46
+  - first:
+      213: 6792625239364793944
+    second: JELLYGHOSTSPRITESHEET_47
+  - first:
+      213: 2246635690545939458
+    second: JELLYGHOSTSPRITESHEET_48
+  - first:
+      213: 5712294450361546291
+    second: JELLYGHOSTSPRITESHEET_49
+  - first:
+      213: -6958715335882300961
+    second: JELLYGHOSTSPRITESHEET_50
+  - first:
+      213: -5163340574500298665
+    second: JELLYGHOSTSPRITESHEET_51
+  - first:
+      213: -6042061873739041514
+    second: JELLYGHOSTSPRITESHEET_52
+  - first:
+      213: -6150712326856358968
+    second: JELLYGHOSTSPRITESHEET_53
+  - first:
+      213: 2352190997950724333
+    second: JELLYGHOSTSPRITESHEET_54
+  - first:
+      213: 537533601685603446
+    second: JELLYGHOSTSPRITESHEET_55
+  - first:
+      213: 8365167027814419853
+    second: JELLYGHOSTSPRITESHEET_56
+  - first:
+      213: -5865379809593523964
+    second: JELLYGHOSTSPRITESHEET_57
+  - first:
+      213: -6730580557456660306
+    second: JELLYGHOSTSPRITESHEET_58
+  - first:
+      213: -7072860811872803707
+    second: JELLYGHOSTSPRITESHEET_59
+  - first:
+      213: -5680024932883178352
+    second: JELLYGHOSTSPRITESHEET_60
+  - first:
+      213: 2322386458434683029
+    second: JELLYGHOSTSPRITESHEET_61
+  - first:
+      213: -8361858503756130252
+    second: JELLYGHOSTSPRITESHEET_62
+  - first:
+      213: -5467001384604627151
+    second: JELLYGHOSTSPRITESHEET_63
+  - first:
+      213: -4905656157139675088
+    second: JELLYGHOSTSPRITESHEET_64
+  - first:
+      213: -1497882109159040273
+    second: JELLYGHOSTSPRITESHEET_65
+  - first:
+      213: 599365424437047398
+    second: JELLYGHOSTSPRITESHEET_66
+  - first:
+      213: -7236078549909044680
+    second: JELLYGHOSTSPRITESHEET_67
+  - first:
+      213: 4218783382244569406
+    second: JELLYGHOSTSPRITESHEET_68
+  - first:
+      213: -1832375037483351070
+    second: JELLYGHOSTSPRITESHEET_69
+  - first:
+      213: 7855022267693382743
+    second: JELLYGHOSTSPRITESHEET_70
+  - first:
+      213: -1837977636827015755
+    second: JELLYGHOSTSPRITESHEET_71
+  - first:
+      213: 6579874851281888197
+    second: JELLYGHOSTSPRITESHEET_72
+  - first:
+      213: 5137675140369765491
+    second: JELLYGHOSTSPRITESHEET_73
+  - first:
+      213: 8002230801681137098
+    second: JELLYGHOSTSPRITESHEET_74
+  - first:
+      213: -5492416707737249955
+    second: JELLYGHOSTSPRITESHEET_75
+  - first:
+      213: 5225512527575118197
+    second: JELLYGHOSTSPRITESHEET_76
+  - first:
+      213: 8316316714503940367
+    second: JELLYGHOSTSPRITESHEET_77
+  - first:
+      213: -2796227796456274740
+    second: JELLYGHOSTSPRITESHEET_78
+  - first:
+      213: -4424995828131555545
+    second: JELLYGHOSTSPRITESHEET_79
+  - first:
+      213: -6700361207286564145
+    second: JELLYGHOSTSPRITESHEET_80
+  - first:
+      213: 7057649992831606394
+    second: JELLYGHOSTSPRITESHEET_81
+  - first:
+      213: -5250636369528452001
+    second: JELLYGHOSTSPRITESHEET_82
+  - first:
+      213: -5767544607067466243
+    second: JELLYGHOSTSPRITESHEET_83
+  - first:
+      213: 4480145965814887052
+    second: JELLYGHOSTSPRITESHEET_84
+  - first:
+      213: 5491823299850588387
+    second: JELLYGHOSTSPRITESHEET_85
+  - first:
+      213: -5698074887582386650
+    second: JELLYGHOSTSPRITESHEET_86
+  - first:
+      213: 6460500490888779390
+    second: JELLYGHOSTSPRITESHEET_87
+  - first:
+      213: -786189575587810725
+    second: JELLYGHOSTSPRITESHEET_88
+  - first:
+      213: 7355150073702889749
+    second: JELLYGHOSTSPRITESHEET_89
+  - first:
+      213: 7401063941262716574
+    second: JELLYGHOSTSPRITESHEET_90
+  - first:
+      213: 5556702017642808976
+    second: JELLYGHOSTSPRITESHEET_91
+  - first:
+      213: -254460235643703460
+    second: JELLYGHOSTSPRITESHEET_92
+  - first:
+      213: -80294432315630510
+    second: JELLYGHOSTSPRITESHEET_93
+  - first:
+      213: 7843034490243919348
+    second: JELLYGHOSTSPRITESHEET_94
+  - first:
+      213: -7604925862037372098
+    second: JELLYGHOSTSPRITESHEET_95
+  - first:
+      213: 3104793337591739535
+    second: JELLYGHOSTSPRITESHEET_96
+  - first:
+      213: 5299403765888157482
+    second: JELLYGHOSTSPRITESHEET_97
+  - first:
+      213: 8701122320443723156
+    second: JELLYGHOSTSPRITESHEET_98
+  - first:
+      213: -6093358237945105658
+    second: JELLYGHOSTSPRITESHEET_99
+  - first:
+      213: 7909912069150775457
+    second: JELLYGHOSTSPRITESHEET_100
+  - first:
+      213: -4437537698889096613
+    second: JELLYGHOSTSPRITESHEET_101
+  - first:
+      213: 4923351086543202497
+    second: JELLYGHOSTSPRITESHEET_102
+  - first:
+      213: -2341713200171930475
+    second: JELLYGHOSTSPRITESHEET_103
+  - first:
+      213: 420368672493050821
+    second: JELLYGHOSTSPRITESHEET_104
+  - first:
+      213: -4963917823131171337
+    second: JELLYGHOSTSPRITESHEET_105
+  - first:
+      213: 2364516905662557991
+    second: JELLYGHOSTSPRITESHEET_106
+  - first:
+      213: -393795794157289005
+    second: JELLYGHOSTSPRITESHEET_107
+  - first:
+      213: 2500116093207203330
+    second: JELLYGHOSTSPRITESHEET_108
+  - first:
+      213: -6609421821582122072
+    second: JELLYGHOSTSPRITESHEET_109
+  - first:
+      213: -1676392198745561275
+    second: JELLYGHOSTSPRITESHEET_110
+  - first:
+      213: -7868813364560421856
+    second: JELLYGHOSTSPRITESHEET_111
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 131
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45db293584a9d7e0800000000000000
+      internalID: -1740178888905206454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 132
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7081083550d0000800000000000000
+      internalID: 3665030886721479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 133
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5482b1de6015ca650800000000000000
+      internalID: 6245455873445668933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 134
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6777a0e6569b70dc0800000000000000
+      internalID: -3672763125808334986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 135
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a52a7bba3f6eafa0800000000000000
+      internalID: -5787566173080377948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 135
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92787284a2e632ed0800000000000000
+      internalID: -2439985445226445015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 135
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2057f4e1299197c70800000000000000
+      internalID: 8969228248249496834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 133
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4c1f5dcf22d7620800000000000000
+      internalID: 2773411414846588087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 131
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05913face57ebb250800000000000000
+      internalID: 5961612926072854864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 130
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf4bb27a609becd0800000000000000
+      internalID: -2527767978972590141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_10
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 129
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c459e8a5550ce40800000000000000
+      internalID: 5674629377914391582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 67
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00811a9662585040800000000000000
+      internalID: 4636546417002905613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 66
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e009f461c2748fa0800000000000000
+      internalID: -5799384245198061338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 65
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e083ba52d4b1e160800000000000000
+      internalID: 7053117306996752616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 64
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1bc60761bdf3170800000000000000
+      internalID: 8160481939240563155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_15
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 65
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13535b0e4d8cf5e70800000000000000
+      internalID: 9106217788195026225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_16
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 66
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da57d08f18a89490800000000000000
+      internalID: -7739251106377147694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_17
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 68
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05aa81e2fd7c1fd70800000000000000
+      internalID: 9075254485493262928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_18
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 69
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a6cc4259ddb7700800000000000000
+      internalID: 539268213038148131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_19
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 70
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c14dfd3bf818ab00800000000000000
+      internalID: 839948797860463046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_20
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 71
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52af688aaf4ccf60800000000000000
+      internalID: 8055901427311026780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_21
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 72
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5176f7c34fb9a11f0800000000000000
+      internalID: -1073374087885134059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_22
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 71
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23015897099bf600800000000000000
+      internalID: 503164041281209131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_23
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 70
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0bd6df5d1823880800000000000000
+      internalID: -8632694779635978005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_24
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 69
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39772bcbd57ce980800000000000000
+      internalID: -8508296009143060161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_25
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 68
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225e1004dc25efed0800000000000000
+      internalID: -2378372511709403870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acc70c0651c98800800000000000000
+      internalID: 615235399425969320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYGHOSTSPRITESHEET_27
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 3
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cb523b02ef26470800000000000000
+      internalID: 8386544872515288181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

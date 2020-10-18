@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ca2d8bf7798105048ab3c5f2c5e9109a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - stick: {instanceID: 0}
+  - stickPickup: {instanceID: 0}
+  - spaceInteract: {instanceID: 0}
+  - player: {fileID: 8537163927959176973, guid: 86617a7bf228e4f4c8ef85056d3332df,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2648 @@
+fileFormatVersion: 2
+guid: d77982ab924a59c44926aa557c8b7ede
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1846167646021143527
+    second: janitor1_0
+  - first:
+      213: -2150433163198109397
+    second: janitor1_1
+  - first:
+      213: 4058629753941033029
+    second: janitor1_2
+  - first:
+      213: 3623826262537279780
+    second: janitor1_3
+  - first:
+      213: -7220873846751063376
+    second: janitor1_4
+  - first:
+      213: -2108884517749033892
+    second: janitor1_5
+  - first:
+      213: 1423888681687134739
+    second: janitor1_6
+  - first:
+      213: -5499966078560100495
+    second: janitor1_7
+  - first:
+      213: 6416324289586516690
+    second: janitor1_8
+  - first:
+      213: 3323296860574279670
+    second: janitor1_9
+  - first:
+      213: -3910116604887956214
+    second: janitor1_10
+  - first:
+      213: -2172979262463638662
+    second: janitor1_11
+  - first:
+      213: -1844143015693903067
+    second: janitor1_12
+  - first:
+      213: 5637428702945893609
+    second: janitor1_13
+  - first:
+      213: 7112168457704334294
+    second: janitor1_14
+  - first:
+      213: -3779616997742374067
+    second: janitor1_15
+  - first:
+      213: 9131669631093110449
+    second: janitor1_16
+  - first:
+      213: 1428123084308900763
+    second: janitor1_17
+  - first:
+      213: 9189055591651969863
+    second: janitor1_18
+  - first:
+      213: -4209097148880316880
+    second: janitor1_19
+  - first:
+      213: -7544527903569028688
+    second: janitor1_20
+  - first:
+      213: -5365462330747025328
+    second: janitor1_21
+  - first:
+      213: 1763908827070518234
+    second: janitor1_22
+  - first:
+      213: -7876026444215143531
+    second: janitor1_23
+  - first:
+      213: -784154170503258965
+    second: janitor1_24
+  - first:
+      213: -447186811082234955
+    second: janitor1_25
+  - first:
+      213: 8509195061104438269
+    second: janitor1_26
+  - first:
+      213: 1945318304153642417
+    second: janitor1_27
+  - first:
+      213: 343796584189420895
+    second: janitor1_28
+  - first:
+      213: -2581109731090424466
+    second: janitor1_29
+  - first:
+      213: 103830817295578872
+    second: janitor1_30
+  - first:
+      213: 4788246794783695819
+    second: janitor1_31
+  - first:
+      213: 3365643948633743749
+    second: janitor1_32
+  - first:
+      213: 7393540604085562232
+    second: janitor1_33
+  - first:
+      213: 1737761102751487441
+    second: janitor1_34
+  - first:
+      213: -6470316644664158306
+    second: janitor1_35
+  - first:
+      213: -91919972665567524
+    second: janitor1_36
+  - first:
+      213: 3868972035056813504
+    second: janitor1_37
+  - first:
+      213: 4798171611726778464
+    second: janitor1_38
+  - first:
+      213: -1852029012077595545
+    second: janitor1_39
+  - first:
+      213: 2104596454029800088
+    second: janitor1_40
+  - first:
+      213: 869449968467063122
+    second: janitor1_41
+  - first:
+      213: 1552127795868051827
+    second: janitor1_42
+  - first:
+      213: 3697421968963963457
+    second: janitor1_43
+  - first:
+      213: 6329189583935311804
+    second: janitor1_44
+  - first:
+      213: -6001986280664675481
+    second: janitor1_45
+  - first:
+      213: 6134965683394295395
+    second: janitor1_46
+  - first:
+      213: -5951871643467423195
+    second: janitor1_47
+  - first:
+      213: -7096146957965275671
+    second: janitor1_48
+  - first:
+      213: -2077907268365776397
+    second: janitor1_49
+  - first:
+      213: -4076069666130609453
+    second: janitor1_50
+  - first:
+      213: 1596176424926647171
+    second: janitor1_51
+  - first:
+      213: 8791880974718478399
+    second: janitor1_52
+  - first:
+      213: -5576294782122309779
+    second: janitor1_53
+  - first:
+      213: -3483342517326271353
+    second: janitor1_54
+  - first:
+      213: 4129166900948575998
+    second: janitor1_55
+  - first:
+      213: 5722337294041127724
+    second: janitor1_56
+  - first:
+      213: 2414348835740337777
+    second: janitor1_57
+  - first:
+      213: 300878718970621853
+    second: janitor1_58
+  - first:
+      213: -9058496392687721148
+    second: janitor1_59
+  - first:
+      213: -2945825636603900253
+    second: janitor1_60
+  - first:
+      213: 8161232447242032825
+    second: janitor1_61
+  - first:
+      213: 2012959717789673849
+    second: janitor1_62
+  - first:
+      213: 2186377565236848194
+    second: janitor1_63
+  - first:
+      213: 8704451881112823943
+    second: janitor1_64
+  - first:
+      213: -8414861494908728860
+    second: janitor1_65
+  - first:
+      213: -8236576428667429375
+    second: janitor1_66
+  - first:
+      213: 8836409217368846410
+    second: janitor1_67
+  - first:
+      213: -4264565290565322842
+    second: janitor1_68
+  - first:
+      213: 6660262753299233464
+    second: janitor1_69
+  - first:
+      213: 2422609252271809248
+    second: janitor1_70
+  - first:
+      213: 5872444666343733118
+    second: janitor1_71
+  - first:
+      213: -5424515151173737420
+    second: janitor1_72
+  - first:
+      213: -4608726036147070886
+    second: janitor1_73
+  - first:
+      213: -2682469182052351083
+    second: janitor1_74
+  - first:
+      213: 5754329769512659764
+    second: janitor1_75
+  - first:
+      213: 1351576629524783995
+    second: janitor1_76
+  - first:
+      213: -8524931453908147717
+    second: janitor1_77
+  - first:
+      213: 7005441180935077490
+    second: janitor1_78
+  - first:
+      213: 178394588759939002
+    second: janitor1_79
+  - first:
+      213: 2401534783244897653
+    second: janitor1_80
+  - first:
+      213: -5827649426871232961
+    second: janitor1_81
+  - first:
+      213: 8598215121181721343
+    second: janitor1_82
+  - first:
+      213: 1504873445044024457
+    second: janitor1_83
+  - first:
+      213: 5033778618588022990
+    second: janitor1_84
+  - first:
+      213: -7687285241886200993
+    second: janitor1_85
+  - first:
+      213: 7882546125970582190
+    second: janitor1_86
+  - first:
+      213: 3241355189500771472
+    second: janitor1_87
+  - first:
+      213: 4633165858949559629
+    second: janitor1_88
+  - first:
+      213: -5187377379642227467
+    second: janitor1_89
+  - first:
+      213: 6008743131002425089
+    second: janitor1_90
+  - first:
+      213: -6251579087490195347
+    second: janitor1_91
+  - first:
+      213: 7174592786822273941
+    second: janitor1_92
+  - first:
+      213: -3383952576464838466
+    second: janitor1_93
+  - first:
+      213: 8564654784615073473
+    second: janitor1_94
+  - first:
+      213: 5896860806740001931
+    second: janitor1_95
+  - first:
+      213: 6519830553165155445
+    second: janitor1_96
+  - first:
+      213: 5907819704657386778
+    second: janitor1_97
+  - first:
+      213: 6624709221739005497
+    second: janitor1_98
+  - first:
+      213: 2417797750487703831
+    second: janitor1_99
+  - first:
+      213: -268379281797475680
+    second: janitor1_100
+  - first:
+      213: 7535072393557256008
+    second: janitor1_101
+  - first:
+      213: 1652437074883251114
+    second: janitor1_102
+  - first:
+      213: 2119968583945050035
+    second: janitor1_103
+  - first:
+      213: -4177658220398512993
+    second: janitor1_104
+  - first:
+      213: 1477476767109871416
+    second: janitor1_105
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: janitor1_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 778
+        width: 24
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914371fae481166e0800000000000000
+      internalID: -1846167646021143527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 774
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b296b5a7e602822e0800000000000000
+      internalID: -2150433163198109397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 778
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5408c76f146235830800000000000000
+      internalID: 4058629753941033029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 778
+        width: 24
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429144239ca6a4230800000000000000
+      internalID: 3623826262537279780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 778
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b29e748e7d4acb90800000000000000
+      internalID: -7220873846751063376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 778
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c547f3754bcbbb2e0800000000000000
+      internalID: -2108884517749033892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_6
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 778
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31239af363ba2c310800000000000000
+      internalID: 1423888681687134739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_7
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 778
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f1abaddf13ca3b0800000000000000
+      internalID: -5499966078560100495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 697
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2d38c32fc5b0950800000000000000
+      internalID: 6416324289586516690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 697
+        width: 21
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f763b913e8be1e20800000000000000
+      internalID: 3323296860574279670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 698
+        width: 24
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a050c4f1aa97cb9c0800000000000000
+      internalID: -3910116604887956214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 698
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73809cafd608d1e0800000000000000
+      internalID: -2172979262463638662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 716
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b1c8aa2b94866e0800000000000000
+      internalID: -1844143015693903067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_13
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 716
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec5ea5798b2c3e40800000000000000
+      internalID: 5637428702945893609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 728
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d36438c78f73b260800000000000000
+      internalID: 7112168457704334294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_15
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 700
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d439986ad5a1c8bc0800000000000000
+      internalID: -3779616997742374067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 699
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6f687d5253abe70800000000000000
+      internalID: 9131669631093110449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_17
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 701
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b64cfe066b1d310800000000000000
+      internalID: 1428123084308900763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_18
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 697
+        width: 31
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b8bb9ff55168f70800000000000000
+      internalID: 9189055591651969863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_19
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 697
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03611ef91784695c0800000000000000
+      internalID: -4209097148880316880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_20
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 717
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9deb528d37c4790800000000000000
+      internalID: -7544527903569028688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 703
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0588518007c0a85b0800000000000000
+      internalID: -5365462330747025328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 695
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3d6bd8bb9aa7810800000000000000
+      internalID: 1763908827070518234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_23
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 618
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59339fe8dabb2b290800000000000000
+      internalID: -7876026444215143531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_24
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 618
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac1302cfef1e15f0800000000000000
+      internalID: -784154170503258965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 618
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b32431f6f54bc9f0800000000000000
+      internalID: -447186811082234955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_26
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 619
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb63ad03dbb61670800000000000000
+      internalID: 8509195061104438269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_27
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 618
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5a42ed0b82ffa10800000000000000
+      internalID: 1945318304153642417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_28
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 617
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f556a9bfb2965c400800000000000000
+      internalID: 343796584189420895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_29
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 610
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d1d08ff5e0e2cd0800000000000000
+      internalID: -2581109731090424466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_30
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 610
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f634a50491e07100800000000000000
+      internalID: 103830817295578872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_31
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 538
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc32cf33715437240800000000000000
+      internalID: 4788246794783695819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_32
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 538
+        width: 25
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581e1ced65b25be20800000000000000
+      internalID: 3365643948633743749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_33
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 601
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b62fab1022b9660800000000000000
+      internalID: 7393540604085562232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_34
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 603
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d55ef11484cd1810800000000000000
+      internalID: 1737761102751487441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_35
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 538
+        width: 25
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97de7afa41d436a0800000000000000
+      internalID: -6470316644664158306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_36
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 601
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd65189954f69bef0800000000000000
+      internalID: -91919972665567524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_37
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 603
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c54b73319951b530800000000000000
+      internalID: 3868972035056813504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_38
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 538
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0609658b8a7869240800000000000000
+      internalID: 4798171611726778464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_39
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 538
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764b56d0d654c46e0800000000000000
+      internalID: -1852029012077595545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_40
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 538
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8923ef50357053d10800000000000000
+      internalID: 2104596454029800088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_41
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 538
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2513478c328e01c00800000000000000
+      internalID: 869449968467063122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_42
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 538
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379a9beb1044a8510800000000000000
+      internalID: 1552127795868051827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_43
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 457
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a82d4e0b1ef4330800000000000000
+      internalID: 3697421968963963457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_44
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 457
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf0192a46cc5d750800000000000000
+      internalID: 6329189583935311804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_45
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 462
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bc6321749a4bca0800000000000000
+      internalID: -6001986280664675481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_46
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 458
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366bdebd8c6c32550800000000000000
+      internalID: 6134965683394295395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_47
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 458
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522676e4644b66da0800000000000000
+      internalID: -5951871643467423195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_48
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 460
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edc28050fb658d90800000000000000
+      internalID: -7096146957965275671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_49
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 459
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f90bd0495ac923e0800000000000000
+      internalID: -2077907268365776397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_50
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 462
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da3a8e0c34ee67c0800000000000000
+      internalID: -4076069666130609453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_51
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 458
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3831b966002c62610800000000000000
+      internalID: 1596176424926647171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_52
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 458
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f382c954a29030a70800000000000000
+      internalID: 8791880974718478399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_53
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 456
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d674cbca0750d92b0800000000000000
+      internalID: -5576294782122309779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 457
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ca0cf9f6ea8afc0800000000000000
+      internalID: -3483342517326271353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 378
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6275d4b6fbd4930800000000000000
+      internalID: 4129166900948575998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_56
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 378
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b9a406373d96f40800000000000000
+      internalID: 5722337294041127724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_57
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 378
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1764e2e697d718120800000000000000
+      internalID: 2414348835740337777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_58
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 378
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fe7bcc99fec2400800000000000000
+      internalID: 300878718970621853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_59
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 378
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445e0ba5681c94280800000000000000
+      internalID: -9058496392687721148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_60
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 378
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae4cffe0335e17d0800000000000000
+      internalID: -2945825636603900253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_61
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 371
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6d043bba5824170800000000000000
+      internalID: 8161232447242032825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_62
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 370
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979260eb2387feb10800000000000000
+      internalID: 2012959717789673849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_63
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 367
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24663d8cfc2975e10800000000000000
+      internalID: 2186377565236848194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_64
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 298
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788e5322edc6cc870800000000000000
+      internalID: 8704451881112823943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_65
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 298
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e94ad1ed08683b80800000000000000
+      internalID: -8414861494908728860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_66
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 297
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e1ceb906dc1bd80800000000000000
+      internalID: -8236576428667429375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_67
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 298
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40f14bad5b31aa70800000000000000
+      internalID: 8836409217368846410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_68
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 298
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7b46e767831d4c0800000000000000
+      internalID: -4264565290565322842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_69
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 298
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba7a21cfa10e6c50800000000000000
+      internalID: 6660262753299233464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_70
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 298
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e26c378746de9120800000000000000
+      internalID: 2422609252271809248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_71
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 298
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e773e8c7f4d1f7150800000000000000
+      internalID: 5872444666343733118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_72
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 361
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434a097d53048b4b0800000000000000
+      internalID: -5424515151173737420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_73
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 218
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a581c5496148a00c0800000000000000
+      internalID: -4608726036147070886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_74
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 218
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59346d2cd74f5cad0800000000000000
+      internalID: -2682469182052351083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_75
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 218
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43be148007c7bdf40800000000000000
+      internalID: 5754329769512659764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_76
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 218
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b736b8998c3c1c210800000000000000
+      internalID: 1351576629524783995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_77
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 218
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1204b720c51b980800000000000000
+      internalID: -8524931453908147717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_78
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 218
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e378c33a3583160800000000000000
+      internalID: 7005441180935077490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_79
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 218
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab753eceee8c97200800000000000000
+      internalID: 178394588759939002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_80
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 218
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d8e075927f35120800000000000000
+      internalID: 2401534783244897653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_81
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 138
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36d4d3f8b7002fa0800000000000000
+      internalID: -5827649426871232961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_82
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 138
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2cd60f81ff25770800000000000000
+      internalID: 8598215121181721343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_83
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 138
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98474c3dc6262e410800000000000000
+      internalID: 1504873445044024457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_84
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 138
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec845e6cbf29bd540800000000000000
+      internalID: 5033778618588022990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_85
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 138
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b254e2dc6415590800000000000000
+      internalID: -7687285241886200993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_86
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 134
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaab1420fd646d60800000000000000
+      internalID: 7882546125970582190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_87
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 135
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cff051f5b9bfc20800000000000000
+      internalID: 3241355189500771472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_88
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 119
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45f7281dcf4c4040800000000000000
+      internalID: 4633165858949559629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_89
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 119
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f44782d1cbb208b0800000000000000
+      internalID: -5187377379642227467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_90
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 118
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fc7fdba08536350800000000000000
+      internalID: 6008743131002425089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_91
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 127
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60e2e431fded39a0800000000000000
+      internalID: -6251579087490195347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_92
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 129
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b1f928026419360800000000000000
+      internalID: 7174592786822273941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_93
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 117
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0ab078f09c901d0800000000000000
+      internalID: -3383952576464838466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_94
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 26
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6c4dc2624cbd670800000000000000
+      internalID: 8564654784615073473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_95
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 87
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8449ab29abd5d150800000000000000
+      internalID: 5896860806740001931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_96
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 26
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cc52538571b7a50800000000000000
+      internalID: 6519830553165155445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_97
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 96
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d182d68baccf150800000000000000
+      internalID: 5907819704657386778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_98
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 86
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936020e10f1bfeb50800000000000000
+      internalID: 6624709221739005497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_99
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 26
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711ee887e3ebd8120800000000000000
+      internalID: 2417797750487703831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_100
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 26
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a213631776864cf0800000000000000
+      internalID: -268379281797475680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_101
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 26
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84725de5b64f19860800000000000000
+      internalID: 7535072393557256008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_102
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 26
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab0a1eb3c2aee610800000000000000
+      internalID: 1652437074883251114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_103
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 26
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7580de134ab6d10800000000000000
+      internalID: 2119968583945050035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_104
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 78
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94f7249bf9f506c0800000000000000
+      internalID: -4177658220398512993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitor1_105
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 26
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837f97baa4d018410800000000000000
+      internalID: 1477476767109871416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

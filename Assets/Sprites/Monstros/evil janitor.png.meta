@@ -1,0 +1,3512 @@
+fileFormatVersion: 2
+guid: ac4d3286e005bfb47844aaf22ed0de1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2531929039135262508
+    second: evil janitor_0
+  - first:
+      213: 3902054934178116439
+    second: evil janitor_1
+  - first:
+      213: -7681955548877847057
+    second: evil janitor_2
+  - first:
+      213: 7704688488306360647
+    second: evil janitor_3
+  - first:
+      213: -7991780721820097518
+    second: evil janitor_4
+  - first:
+      213: 2432674580949640090
+    second: evil janitor_5
+  - first:
+      213: -4577531819899783239
+    second: evil janitor_6
+  - first:
+      213: 4845094996793262552
+    second: evil janitor_7
+  - first:
+      213: 420404779508366362
+    second: evil janitor_8
+  - first:
+      213: -7765095150689555412
+    second: evil janitor_9
+  - first:
+      213: -4195517317861407981
+    second: evil janitor_10
+  - first:
+      213: -8900667365671451235
+    second: evil janitor_11
+  - first:
+      213: -5324022429883609665
+    second: evil janitor_12
+  - first:
+      213: -6950804083842752219
+    second: evil janitor_13
+  - first:
+      213: -2269640429726251516
+    second: evil janitor_14
+  - first:
+      213: -1657577588846682256
+    second: evil janitor_15
+  - first:
+      213: -4006707207724602038
+    second: evil janitor_16
+  - first:
+      213: 2424630883791708046
+    second: evil janitor_17
+  - first:
+      213: -6438142002742995476
+    second: evil janitor_18
+  - first:
+      213: 4851114006388524243
+    second: evil janitor_19
+  - first:
+      213: 2174546019108125030
+    second: evil janitor_20
+  - first:
+      213: 8514608825279736839
+    second: evil janitor_21
+  - first:
+      213: -7699589638795401488
+    second: evil janitor_22
+  - first:
+      213: 8054755344114014944
+    second: evil janitor_23
+  - first:
+      213: 5044184068181702160
+    second: evil janitor_24
+  - first:
+      213: -9106373605284067727
+    second: evil janitor_25
+  - first:
+      213: 2583889283969502547
+    second: evil janitor_26
+  - first:
+      213: -8629352039744051371
+    second: evil janitor_27
+  - first:
+      213: -3370633585492091899
+    second: evil janitor_28
+  - first:
+      213: 4323389768588754096
+    second: evil janitor_29
+  - first:
+      213: 2296421029546268637
+    second: evil janitor_30
+  - first:
+      213: -4478577581059034451
+    second: evil janitor_31
+  - first:
+      213: 8178995614784494112
+    second: evil janitor_32
+  - first:
+      213: -4049352142746727656
+    second: evil janitor_33
+  - first:
+      213: -4575650858800837232
+    second: evil janitor_34
+  - first:
+      213: -8961621626147714567
+    second: evil janitor_35
+  - first:
+      213: -3611585755163570974
+    second: evil janitor_36
+  - first:
+      213: -8575563167033294681
+    second: evil janitor_37
+  - first:
+      213: -3491777451607699464
+    second: evil janitor_38
+  - first:
+      213: -3193825821677111971
+    second: evil janitor_39
+  - first:
+      213: 6063970946952116932
+    second: evil janitor_40
+  - first:
+      213: -4370536549745040675
+    second: evil janitor_41
+  - first:
+      213: -4122308262231161194
+    second: evil janitor_42
+  - first:
+      213: 4482076985895736525
+    second: evil janitor_43
+  - first:
+      213: 3287310970728298592
+    second: evil janitor_44
+  - first:
+      213: 8631579608817936537
+    second: evil janitor_45
+  - first:
+      213: -5309979991271351176
+    second: evil janitor_46
+  - first:
+      213: -1488619246725464540
+    second: evil janitor_47
+  - first:
+      213: 4211453121996445997
+    second: evil janitor_48
+  - first:
+      213: -2894142175990457766
+    second: evil janitor_49
+  - first:
+      213: -2973233939845684126
+    second: evil janitor_50
+  - first:
+      213: -592558249910899651
+    second: evil janitor_51
+  - first:
+      213: -7569531205583895363
+    second: evil janitor_52
+  - first:
+      213: -6966702280231991243
+    second: evil janitor_53
+  - first:
+      213: -4042112618565229343
+    second: evil janitor_54
+  - first:
+      213: -3626248998418054577
+    second: evil janitor_55
+  - first:
+      213: -4006198967472031889
+    second: evil janitor_56
+  - first:
+      213: 1835161376633108267
+    second: evil janitor_57
+  - first:
+      213: 692343200617557250
+    second: evil janitor_58
+  - first:
+      213: 3691082715413139955
+    second: evil janitor_59
+  - first:
+      213: -1332624419164172161
+    second: evil janitor_60
+  - first:
+      213: 3931270721827696664
+    second: evil janitor_61
+  - first:
+      213: -24201422402241973
+    second: evil janitor_62
+  - first:
+      213: 7175502234619622878
+    second: evil janitor_63
+  - first:
+      213: -5390670521483293123
+    second: evil janitor_64
+  - first:
+      213: -3323625611231962279
+    second: evil janitor_65
+  - first:
+      213: 8724407341337376671
+    second: evil janitor_66
+  - first:
+      213: 7050755839774583821
+    second: evil janitor_67
+  - first:
+      213: 8898456992696941679
+    second: evil janitor_68
+  - first:
+      213: 5182890176205171759
+    second: evil janitor_69
+  - first:
+      213: -1848447199527614383
+    second: evil janitor_70
+  - first:
+      213: 5865801639106109407
+    second: evil janitor_71
+  - first:
+      213: 4221361033042389600
+    second: evil janitor_72
+  - first:
+      213: -4532979783318238882
+    second: evil janitor_73
+  - first:
+      213: -245391116672075686
+    second: evil janitor_74
+  - first:
+      213: 5183833109037418083
+    second: evil janitor_75
+  - first:
+      213: -6153199804614246655
+    second: evil janitor_76
+  - first:
+      213: 1981415063559058761
+    second: evil janitor_77
+  - first:
+      213: -4230831305783928437
+    second: evil janitor_78
+  - first:
+      213: 4531541592849616349
+    second: evil janitor_79
+  - first:
+      213: -4015898995821981451
+    second: evil janitor_80
+  - first:
+      213: 5091368991559490726
+    second: evil janitor_81
+  - first:
+      213: 6921950465480852903
+    second: evil janitor_82
+  - first:
+      213: 6223450901698903193
+    second: evil janitor_83
+  - first:
+      213: 5430745939084345508
+    second: evil janitor_84
+  - first:
+      213: 4029791194012684055
+    second: evil janitor_85
+  - first:
+      213: -1550484112111286848
+    second: evil janitor_86
+  - first:
+      213: -819454764689368420
+    second: evil janitor_87
+  - first:
+      213: -8308250428427598042
+    second: evil janitor_88
+  - first:
+      213: 8834992623907158766
+    second: evil janitor_89
+  - first:
+      213: -6064517379288992931
+    second: evil janitor_90
+  - first:
+      213: -1742797924356718024
+    second: evil janitor_91
+  - first:
+      213: -9184650523264503901
+    second: evil janitor_92
+  - first:
+      213: 8363926950479217620
+    second: evil janitor_93
+  - first:
+      213: -8046524290182971504
+    second: evil janitor_94
+  - first:
+      213: 8132349920009210762
+    second: evil janitor_95
+  - first:
+      213: 239940415862332193
+    second: evil janitor_96
+  - first:
+      213: 1367184912818599249
+    second: evil janitor_97
+  - first:
+      213: 3867749923598147246
+    second: evil janitor_98
+  - first:
+      213: 2007376722465393627
+    second: evil janitor_99
+  - first:
+      213: -7492004212877158463
+    second: evil janitor_100
+  - first:
+      213: 2929656689680182703
+    second: evil janitor_101
+  - first:
+      213: -3062013232062962839
+    second: evil janitor_102
+  - first:
+      213: 7334176540664648728
+    second: evil janitor_103
+  - first:
+      213: 6285528405598331988
+    second: evil janitor_104
+  - first:
+      213: 3437724673798312455
+    second: evil janitor_105
+  - first:
+      213: 1576501049220413707
+    second: evil janitor_106
+  - first:
+      213: -8096823351121107832
+    second: evil janitor_107
+  - first:
+      213: -7663127632723272221
+    second: evil janitor_108
+  - first:
+      213: 4499350790780167559
+    second: evil janitor_109
+  - first:
+      213: 8200982293145763492
+    second: evil janitor_110
+  - first:
+      213: -1378331698759550679
+    second: evil janitor_111
+  - first:
+      213: -7238097169539512930
+    second: evil janitor_112
+  - first:
+      213: -1812540731552224539
+    second: evil janitor_113
+  - first:
+      213: -3358703379233991181
+    second: evil janitor_114
+  - first:
+      213: -7682251849000139638
+    second: evil janitor_115
+  - first:
+      213: -5065770607341539266
+    second: evil janitor_116
+  - first:
+      213: -8566194231616206967
+    second: evil janitor_117
+  - first:
+      213: -267455423719468954
+    second: evil janitor_118
+  - first:
+      213: 9193937424728652016
+    second: evil janitor_119
+  - first:
+      213: 3806920321803418140
+    second: evil janitor_120
+  - first:
+      213: 9164049641992197577
+    second: evil janitor_121
+  - first:
+      213: -962451257100144435
+    second: evil janitor_122
+  - first:
+      213: 2930797515072528730
+    second: evil janitor_123
+  - first:
+      213: 7364646970930240272
+    second: evil janitor_124
+  - first:
+      213: 6523720922836685709
+    second: evil janitor_125
+  - first:
+      213: -3820534019530644706
+    second: evil janitor_126
+  - first:
+      213: -8194937047671882701
+    second: evil janitor_127
+  - first:
+      213: 3875498323004758509
+    second: evil janitor_128
+  - first:
+      213: 5264014990574133692
+    second: evil janitor_129
+  - first:
+      213: 6728323588583717297
+    second: evil janitor_130
+  - first:
+      213: 1554985914416502372
+    second: evil janitor_131
+  - first:
+      213: 3020563004906884413
+    second: evil janitor_132
+  - first:
+      213: 1789224459435642926
+    second: evil janitor_133
+  - first:
+      213: 419244326151986465
+    second: evil janitor_134
+  - first:
+      213: -7017020003715516789
+    second: evil janitor_135
+  - first:
+      213: -6171501641807077226
+    second: evil janitor_136
+  - first:
+      213: -2418198364481233176
+    second: evil janitor_137
+  - first:
+      213: 3800794958691351061
+    second: evil janitor_138
+  - first:
+      213: 1267434061140074807
+    second: evil janitor_139
+  - first:
+      213: 221672953181094165
+    second: evil janitor_140
+  - first:
+      213: 955647762581049331
+    second: evil janitor_141
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: evil janitor_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1070
+        width: 23
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8b8d124f7ccdcd0800000000000000
+      internalID: -2531929039135262508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1069
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7533fb5e942e62630800000000000000
+      internalID: 3902054934178116439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1070
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe58bc80126346590800000000000000
+      internalID: -7681955548877847057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1070
+        width: 22
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741ca82eb5d8cea60800000000000000
+      internalID: 7704688488306360647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1070
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214291996cd771190800000000000000
+      internalID: -7991780721820097518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_5
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1070
+        width: 37
+        height: 64
+      alignment: 9
+      pivot: {x: 0.47772682, y: 0.40394783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9320ab74a892c120800000000000000
+      internalID: 2432674580949640090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1070
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b773d600175970c0800000000000000
+      internalID: -4577531819899783239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_7
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1070
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d182eaaa3c3d3340800000000000000
+      internalID: 4845094996793262552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 989
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cf8786be395d500800000000000000
+      internalID: 420404779508366362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 990
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c6a080a17dc3490800000000000000
+      internalID: -7765095150689555412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 989
+        width: 24
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3130fdb6a3786c5c0800000000000000
+      internalID: -4195517317861407981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 988
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95cd3d403a7a7480800000000000000
+      internalID: -8900667365671451235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1008
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd4392dec54d16b0800000000000000
+      internalID: -5324022429883609665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1008
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521e73f3388c98f90800000000000000
+      internalID: -6950804083842752219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_14
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1020
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4064d42ed0e9080e0800000000000000
+      internalID: -2269640429726251516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_15
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 992
+        width: 20
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f152517f91ff8e0800000000000000
+      internalID: -1657577588846682256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_16
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 992
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4de394e5015568c0800000000000000
+      internalID: -4006707207724602038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 993
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f98db41f406a120800000000000000
+      internalID: 2424630883791708046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_18
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 990
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce55bf095ff17a6a0800000000000000
+      internalID: -6438142002742995476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_19
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 989
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4c5bb8c7e925340800000000000000
+      internalID: 4851114006388524243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_20
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1009
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669fda8451a8d2e10800000000000000
+      internalID: 2174546019108125030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 995
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c64304d97f92670800000000000000
+      internalID: 8514608825279736839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 987
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f662578400952590800000000000000
+      internalID: -7699589638795401488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 910
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea589e3f4d38cf60800000000000000
+      internalID: 8054755344114014944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 910
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016b7ad4faa800640800000000000000
+      internalID: 5044184068181702160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 910
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176cc012479af9180800000000000000
+      internalID: -9106373605284067727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 911
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dc0fd1d91dbd320800000000000000
+      internalID: 2583889283969502547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 910
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55763454a026e3880800000000000000
+      internalID: -8629352039744051371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_28
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 909
+        width: 25
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c1eb4cc9a1931d0800000000000000
+      internalID: -3370633585492091899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 902
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc7a469614cffb30800000000000000
+      internalID: 4323389768588754096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_30
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 902
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd797d862c68edf10800000000000000
+      internalID: 2296421029546268637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_31
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 830
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2b2f52b65e8d1c0800000000000000
+      internalID: -4478577581059034451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 829
+        width: 25
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a15be6d21a18170800000000000000
+      internalID: 8178995614784494112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_33
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 893
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b4d193eafcdc7c0800000000000000
+      internalID: -4049352142746727656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_34
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 895
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d07f869c50080c0800000000000000
+      internalID: -4575650858800837232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 830
+        width: 25
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9c10a9c9ce1a380800000000000000
+      internalID: -8961621626147714567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_36
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 893
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec4d9304e111edc0800000000000000
+      internalID: -3611585755163570974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_37
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 895
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a08e002cba7df880800000000000000
+      internalID: -8575563167033294681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_38
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 830
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff443278e6ba8fc0800000000000000
+      internalID: -3491777451607699464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 830
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55377836504da3d0800000000000000
+      internalID: -3193825821677111971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_40
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 830
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cabe5da27d872450800000000000000
+      internalID: 6063970946952116932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 830
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2e5920a2cb853c0800000000000000
+      internalID: -4370536549745040675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_42
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 830
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696cd07f97e9ac6c0800000000000000
+      internalID: -4122308262231161194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_43
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 750
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4d4488549833e30800000000000000
+      internalID: 4482076985895736525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_44
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 750
+        width: 25
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068318439efde9d20800000000000000
+      internalID: 3287310970728298592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_45
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 754
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99829121ce789c770800000000000000
+      internalID: 8631579608817936537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 750
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cd6d7d4592f46b0800000000000000
+      internalID: -5309979991271351176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 750
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e7e11aeac575be0800000000000000
+      internalID: -1488619246725464540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_48
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 752
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29decc1d46127a30800000000000000
+      internalID: 4211453121996445997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_49
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 752
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5adc965601f5d7d0800000000000000
+      internalID: -2894142175990457766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_50
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 754
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264ec5d0c73fcb6d0800000000000000
+      internalID: -2973233939845684126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_51
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 750
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c6555496fc6c7f0800000000000000
+      internalID: -592558249910899651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_52
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 750
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db400fe397f93f690800000000000000
+      internalID: -7569531205583895363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_53
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 748
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5384ed2ff2d415f90800000000000000
+      internalID: -6966702280231991243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_54
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 749
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4ab4c4df787e7c0800000000000000
+      internalID: -4042112618565229343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 670
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f420d26afb9fcadc0800000000000000
+      internalID: -3626248998418054577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_56
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 670
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67fa4cc34f1768c0800000000000000
+      internalID: -4006198967472031889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_57
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 670
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27bbb78c8dc77910800000000000000
+      internalID: 1835161376633108267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_58
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 670
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d67770972bb9900800000000000000
+      internalID: 692343200617557250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_59
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 670
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1d8c86c2c593330800000000000000
+      internalID: 3691082715413139955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_60
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 670
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7055bcb621918de0800000000000000
+      internalID: -1332624419164172161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_61
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 663
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810fe6a84edae8630800000000000000
+      internalID: 3931270721827696664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_62
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 662
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ab7ae3fe40aaff0800000000000000
+      internalID: -24201422402241973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_63
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 659
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed53683d341849360800000000000000
+      internalID: 7175502234619622878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_64
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 590
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e81d1c8bd7035b0800000000000000
+      internalID: -5390670521483293123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_65
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 590
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bd02cad1c10e1d0800000000000000
+      internalID: -3323625611231962279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_66
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 589
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f977938c042531970800000000000000
+      internalID: 8724407341337376671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_67
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 590
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c66cb641159d160800000000000000
+      internalID: 7050755839774583821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_68
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 590
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cbac22d7bad7b70800000000000000
+      internalID: 8898456992696941679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_69
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 590
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c2296b7235de740800000000000000
+      internalID: 5182890176205171759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_70
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 590
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1584716c01ff856e0800000000000000
+      internalID: -1848447199527614383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_71
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 590
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfd2dd2383876150800000000000000
+      internalID: 5865801639106109407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_72
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 653
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06aea2b6e79459a30800000000000000
+      internalID: 4221361033042389600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_73
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 510
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e590a4167ee9711c0800000000000000
+      internalID: -4532979783318238882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_74
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 510
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5879bb5412389cf0800000000000000
+      internalID: -245391116672075686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_75
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 510
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366851f5fbca0f740800000000000000
+      internalID: 5183833109037418083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_76
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 510
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ff6f5f0617b9aa0800000000000000
+      internalID: -6153199804614246655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_77
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 510
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945bb0890866f7b10800000000000000
+      internalID: 1981415063559058761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_78
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 510
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b899522e7511945c0800000000000000
+      internalID: -4230831305783928437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_79
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 510
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd85bec11543ee30800000000000000
+      internalID: 4531541592849616349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_80
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 510
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0de24f329a448c0800000000000000
+      internalID: -4015898995821981451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_81
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 430
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac97526f1d28a640800000000000000
+      internalID: 5091368991559490726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_82
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 430
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a506d73645bf0060800000000000000
+      internalID: 6921950465480852903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_83
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 430
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cf8d03f932e5650800000000000000
+      internalID: 6223450901698903193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_84
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 430
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0848488a2ed5b40800000000000000
+      internalID: 5430745939084345508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_85
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 430
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f8f1e7db1bce730800000000000000
+      internalID: 4029791194012684055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_86
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 430
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c548b33ae29b7ae0800000000000000
+      internalID: -1550484112111286848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_87
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 427
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a5031bb36b0a4f0800000000000000
+      internalID: -819454764689368420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_88
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 427
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627069c114a23bc80800000000000000
+      internalID: -8308250428427598042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_89
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 411
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeabe2d4bf23c9a70800000000000000
+      internalID: 8834992623907158766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_90
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 424
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53fb41239186dba0800000000000000
+      internalID: -6064517379288992931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_91
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 430
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8320e63858650d7e0800000000000000
+      internalID: -1742797924356718024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_92
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 409
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afa6bee201998080800000000000000
+      internalID: -9184650523264503901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_93
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 421
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d341aa5f33a21470800000000000000
+      internalID: 8363926950479217620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_94
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 318
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f77175ac0055090800000000000000
+      internalID: -8046524290182971504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_95
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 379
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b435b4a29ebd070800000000000000
+      internalID: 8132349920009210762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_96
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 318
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bdbb67980745300800000000000000
+      internalID: 239940415862332193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_97
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 388
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15573de3f6739f210800000000000000
+      internalID: 1367184912818599249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_98
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 378
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae9c1430120da530800000000000000
+      internalID: 3867749923598147246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_99
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 318
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb00f85e72abdb10800000000000000
+      internalID: 2007376722465393627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_100
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 318
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c71abbdcdd070890800000000000000
+      internalID: -7492004212877158463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_101
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 318
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadeb3ebc3b38a820800000000000000
+      internalID: 2929656689680182703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_102
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 318
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963675d403b8185d0800000000000000
+      internalID: -3062013232062962839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_103
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 318
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814d152a4ba38c560800000000000000
+      internalID: 7334176540664648728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_104
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 370
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454e05168ceaa3750800000000000000
+      internalID: 6285528405598331988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_105
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 318
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7021851806045bf20800000000000000
+      internalID: 3437724673798312455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_106
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 233
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0930d20a5bd0e510800000000000000
+      internalID: 1576501049220413707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_107
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 232
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884a65b9f0e42af80800000000000000
+      internalID: -8096823351121107832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_108
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 232
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed9c0fd40a17a590800000000000000
+      internalID: -7663127632723272221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_109
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 298
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7852354a4b7e07e30800000000000000
+      internalID: 4499350790780167559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_110
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 232
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeb838e1fdbfc170800000000000000
+      internalID: 8200982293145763492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_111
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 232
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929b6c86f9e2fdce0800000000000000
+      internalID: -1378331698759550679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_112
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 232
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9546df29fc1d8b90800000000000000
+      internalID: -7238097169539512930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_113
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 232
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea27e2decf88d6e0800000000000000
+      internalID: -1812540731552224539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 232
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f59ade521d7361d0800000000000000
+      internalID: -3358703379233991181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_115
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 232
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84424945a8236590800000000000000
+      internalID: -7682251849000139638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_116
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 137
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30fac3e874c2b9b0800000000000000
+      internalID: -5065770607341539266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_117
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 136
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98704836bb3ce1980800000000000000
+      internalID: -8566194231616206967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_118
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 135
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66013fb85bec94cf0800000000000000
+      internalID: -267455423719468954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_119
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 203
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8fe10506d679f70800000000000000
+      internalID: 9193937424728652016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 136
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1afe4ddcd5e4d430800000000000000
+      internalID: 3806920321803418140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_121
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 136
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c59dfe989e3d2f70800000000000000
+      internalID: 9164049641992197577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_122
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 136
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0fae25eafa4a2f0800000000000000
+      internalID: -962451257100144435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_123
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 136
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51ee7adfc84ca820800000000000000
+      internalID: 2930797515072528730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_124
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 135
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b1476866b743660800000000000000
+      internalID: 7364646970930240272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_125
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 136
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83d67b7d99e88a50800000000000000
+      internalID: 6523720922836685709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_126
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 30
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13a4912d8cbafac0800000000000000
+      internalID: -3820534019530644706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_127
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 30
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c34dc7c2cb54e80800000000000000
+      internalID: -8194937047671882701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_128
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 34
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de91256013988c530800000000000000
+      internalID: 3875498323004758509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_129
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 34
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1a0857eb98d0940800000000000000
+      internalID: 5264014990574133692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_130
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 74
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9f967d7aecf5d50800000000000000
+      internalID: 6728323588583717297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_131
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 31
+        width: 19
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4661883537b649510800000000000000
+      internalID: 1554985914416502372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_132
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 59
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d4921ac023be920800000000000000
+      internalID: 3020563004906884413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_133
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 62
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e201a188a2a94d810800000000000000
+      internalID: 1789224459435642926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_134
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 54
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d136e4e7471d500800000000000000
+      internalID: 419244326151986465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_135
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 62
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86f9b00c798e9e90800000000000000
+      internalID: -7017020003715516789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_136
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 58
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690695d64fb6a5aa0800000000000000
+      internalID: -6171501641807077226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_137
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 30
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee5aa05665d07ed0800000000000000
+      internalID: -2418198364481233176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_138
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 31
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ab4e0a0e22fb430800000000000000
+      internalID: 3800794958691351061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_139
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 30
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7312c7e3094d69110800000000000000
+      internalID: 1267434061140074807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_140
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 30
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511cbae506a831300800000000000000
+      internalID: 221672953181094165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil janitor_141
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 30
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff4a0ba394234d00800000000000000
+      internalID: 955647762581049331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
