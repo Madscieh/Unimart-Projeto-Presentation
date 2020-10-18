@@ -36,7 +36,7 @@ public class Monster : MonoBehaviour
         if (collision.tag == "Projectile")
         {
             Destroy(monster);
-            Invoke("WinCondition",3);
+            Invoke("WinCondition", 3);
         }
     }
 
