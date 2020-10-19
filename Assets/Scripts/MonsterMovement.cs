@@ -15,8 +15,9 @@ public class MonsterMovement : MonoBehaviour
     float horizontal;
     float vertical;
     float moveLimiter = 0.7f;
+    float distanciaAtivacao = 2f;
 
-    public float runSpeed = 4.0f;
+    public float runSpeed = 1.0f;
 
     // Start is called before the first frame update
     void Start()
@@ -42,6 +43,9 @@ public class MonsterMovement : MonoBehaviour
 
     void FixedUpdate()
     {
+        float distanciax = player.transform.position.x - transform.position.x;
+        float distanciay = player.transform.position.y - transform.position.y;
+
         if (horizontal != 0 && vertical != 0) // Check for diagonal movement
         {
             // limit movement speed diagonally, so you move at 70% speed
@@ -49,6 +53,9 @@ public class MonsterMovement : MonoBehaviour
             vertical *= moveLimiter;
         }
 
-        rb.velocity = new Vector2(horizontal * runSpeed, vertical * runSpeed);
+        if (Mathf.Abs(distanciax) < distanciaAtivacao && Mathf.Abs(distanciay) < distanciaAtivacao)
+            rb.velocity = new Vector2(horizontal * runSpeed, vertical * runSpeed);
+        else
+            rb.velocity = new Vector2(0, 0);
     }
 }
