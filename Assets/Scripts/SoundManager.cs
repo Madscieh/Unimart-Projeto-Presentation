@@ -14,7 +14,7 @@ public class SoundManager : MonoBehaviour
         CaixaQuebrando = Resources.Load<AudioClip>("caixamadeiraquebrando");
         PortaAbrindo = Resources.Load<AudioClip>("portaabrindo");
         PortaDestrancando = Resources.Load<AudioClip>("portadestrancando");
-        Chave = Resources.Load<AudioClip>("som chave");
+        Chave = Resources.Load<AudioClip>("chave");
 
         audioSrc = GetComponent<AudioSource>();
     }
@@ -40,7 +40,7 @@ public class SoundManager : MonoBehaviour
             case "portadestrancando":
                 audioSrc.PlayOneShot(PortaDestrancando);
                 break;
-            case "som chave":
+            case "chave":
                 audioSrc.PlayOneShot(Chave);
                 break;
         }

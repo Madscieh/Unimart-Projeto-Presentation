@@ -13,7 +13,7 @@ public class Key : MonoBehaviour
         {
             key.SetActive(false);
             playerKey.SetActive(true);
-            SoundManager.PlaySound("som chave");
+            SoundManager.PlaySound("chave");
         }
             
     }
